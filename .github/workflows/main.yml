@@ -13,5 +13,5 @@ jobs:
       
       - name: Run a one-line script
         run: echo "Hello, GitHub Actions!"
-        - name: Break the build
+      - name: Break the build
         run: exit 0
